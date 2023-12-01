@@ -1,0 +1,9 @@
+TODO:
+1- Diseño de web
+2- Autenticación:  Registro, login, auth
+2.1- Implementar una base de datos, crear una api de acceso a ella (con la nueva version de next igual puedo hacer directamente la consulta a la bd)
+3- Desarrollo pagina principal: Pagina inicio con introducción y algunas recetas
+4- Página de usuario: Sus recetas, recetas guardadas y editar perfil
+5- Sistema para subir nuevas recetas
+6-Pruebas
+7- Producción
